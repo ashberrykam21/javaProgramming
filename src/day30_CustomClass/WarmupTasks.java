@@ -1,8 +1,6 @@
 package day30_CustomClass;
 
 
-import com.sun.webkit.dom.CSSFontFaceRuleImpl;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

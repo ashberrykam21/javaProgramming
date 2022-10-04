@@ -1,6 +1,5 @@
 package day40_FinalKeyword;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 public class Animal {
 

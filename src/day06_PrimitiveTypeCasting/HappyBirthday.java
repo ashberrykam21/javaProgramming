@@ -8,7 +8,7 @@ public class HappyBirthday {
     public static void main(String[] args) {
 
 
-        happyBirthDay(1990, 11, 4);
+        happyBirthDay(1990, 05, 23);
 
 
     }
@@ -23,17 +23,17 @@ public class HappyBirthday {
         int day2 = today.getDayOfMonth();
 
         if(month2 == month && day == day2){
-            System.out.println("Today is your birthday!!!");
+            System.out.println("Happy Birthday, to you!!!");
             System.out.println("   \n \t \t  \t \t    * * * * * * * * * * * * * * * * * * * * *");
             System.out.println("   \t \t  \t \t  *  * * * * * * * * * * * * * * * * * * * *  * ");
             System.out.println("  \t \t  \t \t *  *                                       *  * ");
-            System.out.println(" \t \t  \t \t*  *          Happy BirthDay To You!         *  * ");
+            System.out.println(" \t \t  \t \t*  *          Happy Birthday, To You!         *  * ");
             System.out.println("  \t \t  \t \t *  *                                       *  * ");
             System.out.println("  \t \t   \t \t  *  * * * * * * * * * * * * * * * * * * * *  * ");
             System.out.println("   \t \t   \t \t    * * * * * * * * * * * * * * * * * * * * *");
             return;
         }
-        System.out.println("Today is not your birthday yet");
+        System.out.println("It is not your birthday!!!");
     }
 
 
